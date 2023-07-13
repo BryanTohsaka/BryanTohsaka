@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 , I'm Bryan</h1>
 <h3 align="center">Un apasionado desarrollador frontend de México</h3>
 
-- 🌱 Actualmente estoy aprendiendo **React JS**
+- 🌱 Actualmente estoy aprendiendo **Next JS**
 
 - 👨 💻 Todos mis proyectos están disponibles en [https://bryantohsaka.github.io/](https://bryantohsaka.github.io/)
 
