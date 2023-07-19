@@ -13,7 +13,7 @@
 ><p align="left">
 <a href="https://codepen.io/@bryantohsaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="@bryantohsaka" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bryan ivan aviña camacho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bryan ivan aviña camacho" height="30" width="40" /></a>
-<a href="https://dribbble.com/bryan tohsaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bryan tohsaka" height="30" width="40" /></a>
+<a href="https://dribbble.com/Tohsaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="bryan tohsaka" height="30" width="40" /></a>
 <a href="https://discord.gg/Tohsaka#3306" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Tohsaka#3306" height="30" width="40" /></ a>
 </p>
 
